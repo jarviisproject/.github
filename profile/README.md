@@ -3,15 +3,19 @@
 
 ## 담당자
 장인성 : https://github.com/jang5714
+
 서수완 : https://github.com/seosuwan
+
 이혜민 : https://github.com/HyeminLee1
+
 안주현 : https://github.com/Juuhyunn
+
 
 ## 프로젝트 소개
 + 프로젝트 소개
 
 ## 개발 기간
-#### 2021. 11. 1 ~ 2021. 12.?? (??주)
+#### 2021. 11. 1 ~ 2021. 12.31 (8주)
 
 
 ## Front 또는 backend 기술 스택
